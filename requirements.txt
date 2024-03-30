@@ -1,0 +1,12 @@
+*Kauan*
+
+Intalar essas bibliotecas para o treinamento da IA
+
+
+-Comando pelo CMD:-
+
+pip install JSON
+pip install numpy
+pip install joblib
+pip install sklearn
+
